@@ -1,6 +1,3 @@
-#Randall José Acosta Navarro
-#Summy Vanessa Reyes Conejo
-
 import json
 import os
 from validacion import validar_numero 
@@ -95,6 +92,3 @@ def modificar_producto():
         print("Producto modificado con éxito!")
     else:
         print("Producto no encontrado.")
-
-#Randall José Acosta Navarro
-#Summy Vanessa Reyes Conejo
