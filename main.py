@@ -1,6 +1,3 @@
-#Randall José Acosta Navarro
-#Summy Vanessa Reyes Conejo
-
 from inventario import ingresar_producto, substraer_producto, consultar_inventario, modificar_producto, buscar_producto_por_codigo
 from validacion import validar_numero
 from utilidades import Inicio_Programa, Seleccionar_Decision
@@ -62,6 +59,3 @@ def Ingresar_Una_Opcion():
 if __name__ == "__main__":
     Inicio_Programa()
     Ingresar_Una_Opcion()
-
-#Randall José Acosta Navarro
-#Summy Vanessa Reyes Conejo
