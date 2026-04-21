@@ -1,6 +1,3 @@
-#Randall José Acosta Navarro
-#Summy Vanessa Reyes Conejo
-
 import time
 from inventario import cargar_inventario, inventario
 
@@ -39,7 +36,3 @@ def Seleccionar_Decision(callback):
     else:
         print("Opción no válida.")
         Seleccionar_Decision(callback)
-
-
-#Randall José Acosta Navarro
-#Summy Vanessa Reyes Conejo
