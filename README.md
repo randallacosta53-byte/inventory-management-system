@@ -18,7 +18,8 @@ Console-based application to manage inventory, allowing users to add, update, an
 2. Run the main file:
 ```bash
 python main.py
-
+```
+---
 ## Purpose
 
 This project was built to practice data handling, process logic, and basic system design.
